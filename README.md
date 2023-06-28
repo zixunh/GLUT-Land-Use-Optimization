@@ -1,5 +1,5 @@
 # GLUT: [G]enetic [L]and [U]se otimization based on [T]ravel demand
-LUO is a Genetic and Learning-based Pipeline for Land Use Optimization based on Vehicle Travel Demand.
+GLUT is a Genetic and Learning-based Pipeline for Land Use Optimization based on Vehicle Travel Demand.
 
 # Data Source
 - Point of Interest (POI): https://developer.amap.com/api/webservice/guide/api/search
