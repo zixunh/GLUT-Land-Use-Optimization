@@ -3,7 +3,7 @@ LUO is a Genetic and Learning-based Pipeline for Land Use Optimization based on 
 
 # Data Source
 - Point of Interest (POI): https://developer.amap.com/api/webservice/guide/api/search
-- Taxi Order: https://outreach.didichuxing.com/
+- Didi Chuxing Data: https://outreach.didichuxing.com/
 
 ### Data Availability Statement
 The datasets used and/or analysed during the current study are not publicly available due to privacy and data protection concerns (open requirements) but can be made available from the corresponding author on reasonable request.
