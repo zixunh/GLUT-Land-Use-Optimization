@@ -8,4 +8,4 @@ LUO is a Genetic and Learning-based Pipeline for Land Use Optimization based on 
 # Bibtex
 
 # Reference
-https://github.com/ZixunHuang1997/Damn_Data
+POI Crawling &Preprocessing: https://github.com/ZixunHuang1997/Damn_Data
